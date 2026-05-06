@@ -5,9 +5,9 @@
 ## 🚀 Как запустить локально
 
 ```bash
-git clone https://github.com/meha001/Mendeleev-s-table.git
-cd Mendeleev-s-table
-python app.py
+git clone https://github.com/alim0002/mendaleev/.git
+cd mendaleev
+./index.html
 ```
 
 Затем откройте `http://127.0.0.1:5000` в браузере.
